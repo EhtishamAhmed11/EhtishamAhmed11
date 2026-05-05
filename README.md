@@ -14,9 +14,9 @@
 ---
 
 Software Engineering student with a strong focus on backend development. I build systems involving background workers, job schedulers, payment reconciliation, and event-driven architecture using Node.js and PostgreSQL.
-I started my journey like most students do — HTML, CSS, JavaScript, then the MERN stack. I built basic applications, CRUD apps with authentication, and thought that was the full picture.
+I started my journey like most students do; HTML, CSS, JavaScript, then the MERN stack. I built basic applications, CRUD apps with authentication, and thought that was the full picture.
 Then I discovered it wasn't.
-That's when my interest shifted to the backend — not just building APIs, but understanding what happens when they break. How do applications scale? How do they handle failure at 100,000 or 1 million daily active users? How do you guarantee a payment isn't lost when a server crashes mid-request?
+That's when my interest shifted to the backend, not just building APIs, but understanding what happens when they break. How do applications scale? How do they handle failure at 100,000 or 1 million daily active users? How do you guarantee a payment isn't lost when a server crashes mid-request?
 I'm still learning. But I'm building while I learn.
 ---
 
