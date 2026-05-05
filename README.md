@@ -1,18 +1,28 @@
-<h1 align="center">Hi 👋, I'm Ehtasham Ahmed</h1>
-<h3 align="center">A passionate Software Engineer</h3>
-<img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/4d9f5ecceb711eec6e2018f38a5677dc657c9738d4a65ba3b928c41c0a45b439/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313336302f302a37513379765349765f7430696f4a2d5a2e676966">
+<h1 align="center">Ehtasham Ahmed</h1>
+<h3 align="center">Backend Engineer · Islamabad, Pakistan</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ehtashamahmed&label=Profile%20views&color=0e75b6&style=flat" alt="ehtashamahmed" /> </p>
+<p align="center">
+  <a href="https://linkedin.com/in/ehtasham-ahmed11">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:ehtashamahmed16133@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white" />
+  </a>
+  <img src="https://komarev.com/ghpvc/?username=EhtishamAhmed11&label=Profile+views&color=0e75b6&style=flat" />
+</p>
 
-- 🌱 I’m currently learning **Both Frontend and Backend Concepts**
+---
 
-- 💬 Ask me about **React.js and Node.js**
+Software Engineering student with a strong focus on backend development. I build systems involving background workers, job schedulers, payment reconciliation, and event-driven architecture using Node.js and PostgreSQL.
+I started my journey like most students do — HTML, CSS, JavaScript, then the MERN stack. I built basic applications, CRUD apps with authentication, and thought that was the full picture.
+Then I discovered it wasn't.
+That's when my interest shifted to the backend — not just building APIs, but understanding what happens when they break. How do applications scale? How do they handle failure at 100,000 or 1 million daily active users? How do you guarantee a payment isn't lost when a server crashes mid-request?
+I'm still learning. But I'm building while I learn.
+---
 
-- 📫 How to reach me **ehtashamahmed16133@gmail.com**
+---
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://instagram.com/https://www.instagram.com/ehti._.ahmed" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/ehti._.ahmed" height="30" width="40" /></a>
+*📍 Islamabad·*alt="https://www.instagram.com/ehti._.ahmed" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
