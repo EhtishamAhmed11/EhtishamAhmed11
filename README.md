@@ -1,5 +1,5 @@
 <h1 align="center">Ehtasham Ahmed</h1>
-<h3 align="center">Backend Engineer · Islamabad, Pakistan</h3>
+<h3 align="center">AI Full Stack Developer · Islamabad, Pakistan</h3>
 
 <p align="center">
   <a href="https://linkedin.com/in/ehtasham-ahmed11">
